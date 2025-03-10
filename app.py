@@ -29,34 +29,31 @@ def main():
 User Reviews from E-Commerce Websites for {user_query}
  
 Instructions for GPT Researcher:  
-1. Collect authentic user reviews for {user_query} from at least 3 major e-commerce websites: Amazon, Flipkart, and other relevant platforms like Best Buy, Walmart, Target, or category-specific retailers.
-2. **IMPORTANT: Content from Flipkart MUST be included - this is a critical requirement.**
-3. For each review, include:
+1. Collect authentic user reviews for {user_query} from at least 3 major e-commerce websites: Amazon, Flipkart (or Amazon India if Flipkart is inaccessible), and other relevant platforms like Best Buy, Walmart, Target, or category-specific retailers.
+2. For each review, include:
    - Star rating (out of 5)
    - Complete review text
    - 2-4 relevant tags that summarize key points (e.g., "Great battery life," "Poor durability")
-4. Gather a minimum of 10 reviews for each star rating (5★, 4★, 3★, 2★, 1★), ensuring a balanced representation of customer experiences.
-5. Combine all reviews under each rating heading without separating them by retailer name.
-6. Prioritize recent reviews (within the last 6 months if possible).
-7. Include reviews that mention specific features, durability, value for money, and customer service experiences.
-8. Capture reviews from different regions/countries if the product is sold internationally.
-9. Report MUST include reviews from **Amazon** and **Flipkart**. There must be at least 10 reviews under each rating.
-10. Ensure that the displayed reviews include reviews from all websites.
-11. For each source website, note the overall product rating and total number of reviews.
+3. Gather a minimum of 10 reviews for each star rating (5★, 4★, 3★, 2★, 1★), ensuring a balanced representation of customer experiences.
+4. Combine all reviews under each rating heading without separating them by retailer name.
+5. Prioritize recent reviews (within the last 6 months if possible).
+6. Include reviews that mention specific features, durability, value for money, and customer service experiences.
+7. Capture reviews from different regions/countries if the product is sold internationally.
+8. Report must include reviews from Amazon and at least one Indian e-commerce platform (preferably Flipkart, or Amazon India as an alternative). There must be at least 10 reviews under each rating.
+9. For each source website, note the overall product rating and total number of reviews.
 
-Instructions for Tavily:  
-1. Use advanced web scraping to access current review data from Amazon, Flipkart, and other relevant e-commerce platforms.
-2. **CRITICAL: Must visit Flipkart product page URLs and extract content - this is a mandatory requirement.**
-3. Must visit Amazon product page URLs.
-4. Extract at least 3 user reviews from each URL.
-5. Provide direct URLs to each specific product page containing the reviews.
-6. Extract both textual reviews and any associated images/videos shared by reviewers if possible.
+Instructions for Tavily/Search:  
+1. Use advanced web scraping to access current review data from Amazon, Indian e-commerce sites, and other relevant platforms.
+2. If direct access to Flipkart is limited, please prioritize Amazon India (amazon.in) as an alternative source for Indian market reviews.
+3. Extract at least 3 user reviews from each URL.
+4. Provide direct URLs to each specific product page containing the reviews.
+5. If Flipkart access remains problematic, clearly note this limitation in the final report.
  
 Output Format:  
 # User Reviews from E-Commerce Websites for {user_query}
 ## Product Overview
 - Average Rating on Amazon: [X.X]/5 from [XXXX] reviews
-- Average Rating on Flipkart: [X.X]/5 from [XXXX] reviews
+- Average Rating on [Indian E-commerce Site]: [X.X]/5 from [XXXX] reviews
 - Average Rating on [Other Site]: [X.X]/5 from [XXXX] reviews
 ## 5 star rating:  
   - Review 1: [Full review content]
@@ -77,38 +74,17 @@ Output Format:
     Tags: "Tag 1," "Tag 2," "Tag 3"
   
 ## 3 star rating:  
-  - Review 1: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-  - Review 2: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-  [...]
-  - Review 10: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-## 2 star rating:  
-  - Review 1: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-  - Review 2: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-  [...]
-  - Review 10: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-## 1 star rating:  
-  - Review 1: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-  - Review 2: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-  [...]
-  - Review 10: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
+  - [Continue similar format for 3, 2, and 1 star ratings]
   
 ## Common Themes in Reviews
 - Positive Points: [List 3-5 recurring positive aspects mentioned across reviews]
 - Critical Points: [List 3-5 recurring negative aspects mentioned across reviews]
 ## Sources
 - Amazon: [Direct link to product page]
-- Flipkart: [Direct link to product page]
+- [Indian E-commerce Site]: [Direct link to product page]
 - [Other sites]: [Direct links to product pages]
-
+## Research Notes
+- [Include any limitations encountered during research, such as restricted access to certain platforms]
 """
                 report_type = "research_report"
                 report, context, sources = asyncio.run(get_report(query, report_type))
