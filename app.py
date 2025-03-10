@@ -36,10 +36,11 @@ Instructions for GPT Researcher:
    - Star rating (out of 5)
    - Complete review text
 3. Gather a minimum of 10 reviews for each star rating (5★, 4★, 3★, 2★, 1★), ensuring a balanced representation of customer experiences.
-4. Prioritize recent reviews (within the last 6 months if possible).
-5. Include reviews that mention specific features, durability, value for money, and customer service experiences.
-6. Capture reviews from different regions/countries if the product is sold internationally.
-7. For each source website, note the overall product rating and total number of reviews.
+4. Combine all reviews under each rating heading without separating them by retailer.
+5. Prioritize recent reviews (within the last 6 months if possible).
+6. Include reviews that mention specific features, durability, value for money, and customer service experiences.
+7. Capture reviews from different regions/countries if the product is sold internationally.
+8. For each source website, note the overall product rating and total number of reviews.
 
 Instructions for Tavily:  
 1. Use advanced web scraping to access current review data from Amazon, Flipkart, and other relevant e-commerce platforms.
