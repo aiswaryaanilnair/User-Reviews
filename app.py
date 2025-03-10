@@ -46,7 +46,7 @@ Instructions for GPT Researcher:
 
 Instructions for Tavily:  
 1. Use advanced web scraping to access current review data from Amazon, Flipkart, and other relevant e-commerce platforms.
-2. Must visit **Amazon** and **Flipkart**.
+2. Must visit **Amazon** and **Flipkart** product page URLs.
 3. Extract atleast 3 user review from each URL.
 4. Provide direct URLs to each specific product page containing the reviews.
 5. Extract both textual reviews and any associated images/videos shared by reviewers if possible.
