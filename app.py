@@ -36,11 +36,11 @@ Instructions for GPT Researcher:
    - Star rating (out of 5)
    - Complete review text
 3. Gather a minimum of 10 reviews for each star rating (5★, 4★, 3★, 2★, 1★), ensuring a balanced representation of customer experiences.
-4. Combine all reviews under each rating heading without separating them by retailer.
+4. Combine all reviews under each rating heading without separating them by retailer name.
 5. Prioritize recent reviews (within the last 6 months if possible).
 6. Include reviews that mention specific features, durability, value for money, and customer service experiences.
 7. Capture reviews from different regions/countries if the product is sold internationally.
-8. Focus mainly on Amazon and Flipkart reviews. Make sure to provide atleast 10 reviews under each ratings.
+8. Focus mainly on **Amazon** and **Flipkart** reviews. Make sure to provide atleast 10 reviews under each ratings.
 9. Ensure that the displayed reviews include reviews from all websites.
 10. For each source website, note the overall product rating and total number of reviews.
 
