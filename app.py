@@ -45,12 +45,13 @@ Instructions for GPT Researcher:
 
 Instructions for Tavily:  
 1. Use advanced web scraping to access current review data from Amazon, Flipkart, and other relevant e-commerce platforms.
-2. Implement sentiment analysis to verify the alignment between star ratings and review content.
-3. Prioritize verified purchase reviews when available.
-4. Ensure geographic diversity in the review collection.
-5. Capture metadata such as helpful votes, and reviewer profiles when available.
-6. Provide direct URLs to each specific product page containing the reviews.
-7. Extract both textual reviews and any associated images/videos shared by reviewers if possible.
+2. Focus mainly on Amazon and Flipkart.
+3. Implement sentiment analysis to verify the alignment between star ratings and review content.
+4. Prioritize verified purchase reviews when available.
+5. Ensure geographic diversity in the review collection.
+6. Capture metadata such as helpful votes, and reviewer profiles when available.
+7. Provide direct URLs to each specific product page containing the reviews.
+8. Extract both textual reviews and any associated images/videos shared by reviewers if possible.
  
 Output Format:  
 # User Reviews from E-Commerce Websites for {user_query}
