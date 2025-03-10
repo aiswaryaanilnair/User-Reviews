@@ -40,14 +40,14 @@ Instructions for GPT Researcher:
 5. Prioritize recent reviews (within the last 6 months if possible).
 6. Include reviews that mention specific features, durability, value for money, and customer service experiences.
 7. Capture reviews from different regions/countries if the product is sold internationally.
-8. Focus mainly on **Amazon** and **Flipkart** reviews. Make sure to provide atleast 10 reviews under each ratings.
+8. Report must include reviews from **Amazon** and **Flipkart**. There must be atleast 10 reviews under each ratings.
 9. Ensure that the displayed reviews include reviews from all websites.
 10. For each source website, note the overall product rating and total number of reviews.
 
 Instructions for Tavily:  
 1. Use advanced web scraping to access current review data from Amazon, Flipkart, and other relevant e-commerce platforms.
-2. Focus mainly on Amazon and Flipkart.
-3. Extract atleast 3 user review from each url.
+2. Must visit **Amazon** and **Flipkart**.
+3. Extract atleast 3 user review from each URL.
 4. Provide direct URLs to each specific product page containing the reviews.
 5. Extract both textual reviews and any associated images/videos shared by reviewers if possible.
  
