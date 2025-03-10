@@ -221,8 +221,6 @@ Display Average Rating only for available websites
 - Amazon: [Direct link to product page]
 - [Indian E-commerce Site]: [Direct link to product page]
 - [Other sites]: [Direct links to product pages]
-## Research Notes
-- [Include any limitations encountered during research, such as restricted access to certain platforms]
 """
                 report_type = "research_report"
                 report, context, sources = asyncio.run(get_report(query, report_type))
