@@ -61,7 +61,27 @@ Display Average Rating only for available websites
   - Review 2: [Full review content]
     Tags: "Tag 1," "Tag 2," "Tag 3"
     Source: [Link to product page of retailer website]
-  [...]
+  - Review 3: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 4: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 5: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 6: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 7: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 8: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 9: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
   - Review 10: [Full review content]
     Tags: "Tag 1," "Tag 2," "Tag 3"
     Source: [Link to product page of retailer website]
@@ -73,7 +93,27 @@ Display Average Rating only for available websites
   - Review 2: [Full review content]
     Tags: "Tag 1," "Tag 2," "Tag 3"
     Source: [Link to product page of retailer website]
-  [...]
+  - Review 3: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 4: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 5: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 6: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 7: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 8: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 9: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
   - Review 10: [Full review content]
     Tags: "Tag 1," "Tag 2," "Tag 3"
     Source: [Link to product page of retailer website]
@@ -85,7 +125,27 @@ Display Average Rating only for available websites
   - Review 2: [Full review content]
     Tags: "Tag 1," "Tag 2," "Tag 3"
     Source: [Link to product page of retailer website]
-  [...]
+  - Review 3: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 4: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 5: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 6: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 7: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 8: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 9: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
   - Review 10: [Full review content]
     Tags: "Tag 1," "Tag 2," "Tag 3"
     Source: [Link to product page of retailer website]
@@ -97,7 +157,27 @@ Display Average Rating only for available websites
   - Review 2: [Full review content]
     Tags: "Tag 1," "Tag 2," "Tag 3"
     Source: [Link to product page of retailer website]
-  [...]
+  - Review 3: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 4: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 5: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 6: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 7: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 8: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 9: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
   - Review 10: [Full review content]
     Tags: "Tag 1," "Tag 2," "Tag 3"
     Source: [Link to product page of retailer website]
@@ -109,7 +189,27 @@ Display Average Rating only for available websites
   - Review 2: [Full review content]
     Tags: "Tag 1," "Tag 2," "Tag 3"
     Source: [Link to product page of retailer website]
-  [...]
+  - Review 3: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 4: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 5: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 6: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 7: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 8: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
+  - Review 9: [Full review content]
+    Tags: "Tag 1," "Tag 2," "Tag 3"
+    Source: [Link to product page of retailer website]
   - Review 10: [Full review content]
     Tags: "Tag 1," "Tag 2," "Tag 3"
     Source: [Link to product page of retailer website]
