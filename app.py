@@ -70,28 +70,31 @@ Output Format:
  
 ## 4 star rating:  
   - Review 1: [Full review content]
+  - Review 2: [Full review content]
   [...]
   - Review 10: [Full review content]
   
 ## 3 star rating:  
   - Review 1: [Full review content]
+  - Review 2: [Full review content]
   [...]
   - Review 10: [Full review content]
 
 ## 2 star rating:  
   - Review 1: [Full review content]
+  - Review 2: [Full review content]
   [...]
   - Review 10: [Full review content]
 
 ## 1 star rating:  
   - Review 1: [Full review content]
+  - Review 2: [Full review content]
   [...]
   - Review 10: [Full review content]
   
 ## Common Themes in Reviews
 - Positive Points: [List 3-5 recurring positive aspects mentioned across reviews]
 - Critical Points: [List 3-5 recurring negative aspects mentioned across reviews]
-- Value Considerations: [Summary of price-to-quality observations from reviewers]
 
 ## Sources
 - Amazon: [Direct link to product page]
