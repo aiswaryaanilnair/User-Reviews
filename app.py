@@ -40,6 +40,7 @@ Instructions for GPT Researcher:
 5. Prioritize recent reviews (within the last 6 months if possible).
 6. Include reviews that mention specific features, durability, value for money, and customer service experiences.
 7. Capture reviews from different regions/countries if the product is sold internationally.
+8. Focus mainly on Amazon and Flipkart reviews. Make sure to provide atleast 10 reviews under each ratings.
 8. For each source website, note the overall product rating and total number of reviews.
 
 Instructions for Tavily:  
