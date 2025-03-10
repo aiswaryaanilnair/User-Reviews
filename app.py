@@ -71,8 +71,21 @@ Output Format:
   [...]
   - Review 10: [Full review content]
   
-[Continue with 3, 2, and 1 star rating sections]
+## 3 star rating:  
+  - Review 1: [Full review content]
+  [...]
+  - Review 10: [Full review content]
 
+## 2 star rating:  
+  - Review 1: [Full review content]
+  [...]
+  - Review 10: [Full review content]
+
+## 1 star rating:  
+  - Review 1: [Full review content]
+  [...]
+  - Review 10: [Full review content]
+  
 ## Common Themes in Reviews
 - Positive Points: [List 3-5 recurring positive aspects mentioned across reviews]
 - Critical Points: [List 3-5 recurring negative aspects mentioned across reviews]
