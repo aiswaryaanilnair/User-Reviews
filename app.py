@@ -26,26 +26,24 @@ def main():
             with st.spinner("Processing your request..."):
                 # Run the async function to get the report
                 query = f"""
-User Reviews from E-Commerce Websites for {user_query}
- 
-Instructions for GPT Researcher:  
-1. Collect authentic user reviews for {user_query} from at least **3** major e-commerce websites: Amazon, Tata Cliq, Snapdeal, Flipkart, Reliance Digital and other relevant platforms like Best Buy, Walmart, Target, or category-specific retailers.
-2. For each rating, include:
-   - Star rating (out of 5)
-   - Summary of reviews with the same star rating.
-   - Tags that summarize key points (e.g., "Great battery life," "Poor durability")
-   - Top 5 separate reviews
-3. Must gather atleast 10 reviews from each year for each star rating (5★, 4★, 3★, 2★, 1★), from each website ensuring a balanced representation of customer experiences.
-4. Summarise all reviews under each rating heading separating them by retailer name.
-5. Include reviews that mention specific features, durability, value for money, and customer service experiences.
-6. Report must include reviews from Amazon and at least three Indian e-commerce platform (preferably Tata Cliq, Snapdeal, Flipkart, Reliance Digital or Amazon India).
-7. For each source website, note the overall product rating and total number of reviews.
+Task: Collect authentic user reviews for {user_query} from major e-commerce websites.
 
-Instructions for Tavily/Search:  
-1. Use advanced web scraping to access user review data from Amazon, Indian e-commerce sites, and other relevant platforms.
-2. Please prioritize Tata Cliq, Snapdeal, Flipkart, Reliance Digital and Amazon India for Indian market reviews.
-3. Provide direct URLs to each specific product page containing the reviews.
-4. If Flipkart access remains problematic, ignore it.
+Instructions for GPT Researcher:
+1. Gather reviews from at least 3 Indian e-commerce sites (Amazon India + Tata Cliq, Snapdeal, Flipkart, Reliance Digital) and optionally Best Buy, Walmart, or other relevant platforms.
+2. Collect at least 10 reviews per year from the last five years per rating (5★, 4★, 3★, 2★, 1★) per platform for balanced representation.
+3. Include:
+    - Star rating (out of 5)
+    - Summary of common themes per rating
+    - Top 5 individual reviews under each rating per platform
+    - Tags summarizing key points for individual reviews (e.g., "Great battery life," "Poor durability")
+    - Mentions of specific features, durability, value for money, customer service
+4. Report must include Amazon + at least 3 Indian platforms
+5. Note overall product rating & total reviews for each website.
+
+Instructions for Tavily/Search:
+1. Scrape reviews from Amazon India, Tata Cliq, Snapdeal, Flipkart, Reliance Digital (prioritize Indian sites).
+2. Provide direct URLs to product review pages.
+3. If Flipkart access is restricted, exclude it.
  
 Output Format:  
 # User Reviews from E-Commerce Websites for {user_query}
