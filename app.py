@@ -57,7 +57,7 @@ Product Overview
 
 Average Rating: [X.X]/5 from [XXXX] reviews
 
-5 Star Reviews ([Number] reviews)
+5 Star Reviews
 Summary: [Brief summary of common themes in 5-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -66,7 +66,7 @@ Summary: [Brief summary of common themes in 5-star reviews]
 - Review 3 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
   
-4 Star Reviews ([Number] reviews)
+4 Star Reviews
 Summary: [Brief summary of common themes in 4-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -75,7 +75,7 @@ Summary: [Brief summary of common themes in 4-star reviews]
 - Review 3 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
   
-3 Star Reviews ([Number] reviews)
+3 Star Reviews
 Summary: [Brief summary of common themes in 3-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -84,7 +84,7 @@ Summary: [Brief summary of common themes in 3-star reviews]
 - Review 3 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
   
-2 Star Reviews ([Number] reviews)
+2 Star Reviews
 Summary: [Brief summary of common themes in 2-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -93,7 +93,7 @@ Summary: [Brief summary of common themes in 2-star reviews]
 - Review 3 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
   
-1 Star Reviews ([Number] reviews)
+1 Star Reviews
 Summary: [Brief summary of common themes in 1-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -107,7 +107,7 @@ Product Overview
 
 Average Rating: [X.X]/5 from [XXXX] reviews
 
-5 Star Reviews ([Number] reviews)
+5 Star Reviews
 Summary: [Brief summary of common themes in 5-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -116,7 +116,7 @@ Summary: [Brief summary of common themes in 5-star reviews]
 - Review 3 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
   
-4 Star Reviews ([Number] reviews)
+4 Star Reviews
 Summary: [Brief summary of common themes in 4-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -125,7 +125,7 @@ Summary: [Brief summary of common themes in 4-star reviews]
 - Review 3 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
   
-3 Star Reviews ([Number] reviews)
+3 Star Reviews
 Summary: [Brief summary of common themes in 3-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -134,7 +134,7 @@ Summary: [Brief summary of common themes in 3-star reviews]
 - Review 3 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
   
-2 Star Reviews ([Number] reviews)
+2 Star Reviews
 Summary: [Brief summary of common themes in 2-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -143,7 +143,7 @@ Summary: [Brief summary of common themes in 2-star reviews]
 - Review 3 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
   
-1 Star Reviews ([Number] reviews)
+1 Star Reviews
 Summary: [Brief summary of common themes in 1-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -157,7 +157,7 @@ Product Overview
 
 Average Rating: [X.X]/5 from [XXXX] reviews
 
-5 Star Reviews ([Number] reviews)
+5 Star Reviews
 Summary: [Brief summary of common themes in 5-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -166,7 +166,7 @@ Summary: [Brief summary of common themes in 5-star reviews]
 - Review 3 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
   
-4 Star Reviews ([Number] reviews)
+4 Star Reviews
 Summary: [Brief summary of common themes in 4-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -174,7 +174,7 @@ Summary: [Brief summary of common themes in 4-star reviews]
   Tags: "Tag 1", "Tag 2", etc
 - Review 3 : [Review Content]
   
-3 Star Reviews ([Number] reviews)
+3 Star Reviews
 Summary: [Brief summary of common themes in 3-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -183,7 +183,7 @@ Summary: [Brief summary of common themes in 3-star reviews]
 - Review 3 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
   
-2 Star Reviews ([Number] reviews)
+2 Star Reviews
 Summary: [Brief summary of common themes in 2-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
@@ -192,7 +192,7 @@ Summary: [Brief summary of common themes in 2-star reviews]
 - Review 3 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
   
-1 Star Reviews ([Number] reviews)
+1 Star Reviews
 Summary: [Brief summary of common themes in 1-star reviews]
 - Review 1 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
