@@ -40,6 +40,7 @@ Instructions for GPT Researcher:
 4. Report must include Amazon + **at least 3** Indian platforms
 5. Summarise all reviews under each rating heading separating them by retailer name.
 6. For each source website, note the overall product rating and total number of reviews.
+7. Under each retailer heading, all rating heading (5★, 4★, 3★, 2★, 1★) must be present.
 7. Must format the exact OUTPUT FORMAT given below.
 
 Instructions for Tavily/Search:
