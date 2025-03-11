@@ -29,7 +29,7 @@ def main():
 User Reviews from E-Commerce Websites for {user_query}
  
 Instructions for GPT Researcher:  
-1. Collect authentic user reviews for {user_query} from at least 5 major e-commerce websites: Amazon, Tata Cliq, Snapdeal, Flipkart, Reliance Digital and other relevant platforms like Best Buy, Walmart, Target, or category-specific retailers.
+1. Collect authentic user reviews for {user_query} from at least **3** major e-commerce websites: Amazon, Tata Cliq, Snapdeal, Flipkart, Reliance Digital and other relevant platforms like Best Buy, Walmart, Target, or category-specific retailers.
 2. For each rating, include:
    - Star rating (out of 5)
    - Summary of reviews with the same star rating.
@@ -154,39 +154,6 @@ Summary: [Brief summary of common themes in 4-star reviews]
 [Continue with 3-star, 2-star, and 1-star reviews following the same format]
 
 ### [Indian E-commerce Site 2] (e.g., Tata Cliq, Flipkart, etc.)
-Product Overview
-
-Average Rating: [X.X]/5 from [XXXX] reviews
-
-5 Star Reviews ([Number] reviews)
-Summary: [Brief summary of common themes in 5-star reviews]
-- Review 1 : [Review Content]
-  Tags: "Tag 1", "Tag 2", etc
-- Review 2 : [Review Content]
-  Tags: "Tag 1", "Tag 2", etc
-- Review 3 : [Review Content]
-  Tags: "Tag 1", "Tag 2", etc
-- Review 4 : [Review Content]
-  Tags: "Tag 1", "Tag 2", etc
-- Review 5 : [Review Content]
-  Tags: "Tag 1", "Tag 2", etc
-  
-4 Star Reviews ([Number] reviews)
-Summary: [Brief summary of common themes in 4-star reviews]
-- Review 1 : [Review Content]
-  Tags: "Tag 1", "Tag 2", etc
-- Review 2 : [Review Content]
-  Tags: "Tag 1", "Tag 2", etc
-- Review 3 : [Review Content]
-  Tags: "Tag 1", "Tag 2", etc
-- Review 4 : [Review Content]
-  Tags: "Tag 1", "Tag 2", etc
-- Review 5 : [Review Content]
-  Tags: "Tag 1", "Tag 2", etc
-  
-[Continue with 3-star, 2-star, and 1-star reviews following the same format]
-
-### [Indian E-commerce Site 3] (e.g., Tata Cliq, Flipkart, etc.)
 Product Overview
 
 Average Rating: [X.X]/5 from [XXXX] reviews
