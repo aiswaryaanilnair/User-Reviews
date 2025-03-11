@@ -49,170 +49,54 @@ Instructions for Tavily/Search:
 Output Format:  
 # User Reviews from E-Commerce Websites for {user_query}
 ## Product Overview
-Display Average Rating only for available websites
-- Average Rating on Amazon: [X.X]/5 from [XXXX] reviews
-- Average Rating on [Indian E-commerce Site]: [X.X]/5 from [XXXX] reviews
-- Average Rating on [Other Site]: [X.X]/5 from [XXXX] reviews
+### Amazon
+Product Overview
 
-## 5 star rating:  
-  - Review 1: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 2: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 3: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 4: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 5: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 6: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 7: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 8: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 9: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 10: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
- 
-## 4 star rating:  
-  - Review 1: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 2: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 3: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 4: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 5: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 6: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 7: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 8: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 9: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 10: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  
-## 3 star rating:  
-  - Review 1: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 2: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 3: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 4: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 5: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 6: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 7: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 8: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 9: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 10: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
+Average Rating: [X.X]/5 from [XXXX] reviews
 
-## 2 star rating:  
-  - Review 1: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 2: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 3: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 4: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 5: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 6: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 7: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 8: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 9: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 10: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
+5 Star Reviews ([Number] reviews)
+Summary: [Brief summary of common themes in 5-star reviews]
 
-## 1 star rating:  
-  - Review 1: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 2: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 3: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 4: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 5: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 6: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 7: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 8: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 9: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
-  - Review 10: [Full review content]
-    Tags: "Tag 1," "Tag 2," "Tag 3"
-    Source: [Link to product page of retailer website]
+Review 1: [Full review content]
+Tags: "Tag 1," "Tag 2," "Tag 3"
+Review 2: [Full review content]
+Tags: "Tag 1," "Tag 2," "Tag 3"
+[Additional reviews...]
+
+4 Star Reviews ([Number] reviews)
+Summary: [Brief summary of common themes in 4-star reviews]
+
+Review 1: [Full review content]
+Tags: "Tag 1," "Tag 2," "Tag 3"
+Review 2: [Full review content]
+Tags: "Tag 1," "Tag 2," "Tag 3"
+[Additional reviews...]
+
+3 Star Reviews ([Number] reviews)
+Summary: [Brief summary of common themes in 3-star reviews]
+[Review listings...]
+2 Star Reviews ([Number] reviews)
+Summary: [Brief summary of common themes in 2-star reviews]
+[Review listings...]
+1 Star Reviews ([Number] reviews)
+Summary: [Brief summary of common themes in 1-star reviews]
+[Review listings...]
+
+### [Indian E-commerce Site] (e.g., Tata Cliq, Flipkart, etc.)
+Product Overview
+
+Average Rating: [X.X]/5 from [XXXX] reviews
+
+5 Star Reviews ([Number] reviews)
+Summary: [Brief summary of common themes in 5-star reviews]
+[Review listings...]
+4 Star Reviews ([Number] reviews)
+Summary: [Brief summary of common themes in 4-star reviews]
+[Review listings...]
+[Continue with 3-star, 2-star, and 1-star reviews following the same format]
+
+### [Additional Website] (e.g., Best Buy, Walmart, etc.)
+[Follow same format as above]
 
 ## Common Themes in Reviews
 - Positive Points: [List 3-5 recurring positive aspects mentioned across reviews]
