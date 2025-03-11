@@ -121,8 +121,33 @@ Summary: [Brief summary of common themes in 4-star reviews]
 - Review 3 : [Review Content]
   Tags: "Tag 1", "Tag 2", etc
   
-[Continue with 3-star, 2-star, and 1-star reviews following the same format]
-
+3 Star Reviews ([Number] reviews)
+Summary: [Brief summary of common themes in 3-star reviews]
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
+2 Star Reviews ([Number] reviews)
+Summary: [Brief summary of common themes in 2-star reviews]
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
+1 Star Reviews ([Number] reviews)
+Summary: [Brief summary of common themes in 1-star reviews]
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
 ### [Indian E-commerce Site 2] (e.g., Tata Cliq, Flipkart, etc.)
 Product Overview
 
@@ -145,8 +170,33 @@ Summary: [Brief summary of common themes in 4-star reviews]
   Tags: "Tag 1", "Tag 2", etc
 - Review 3 : [Review Content]
   
-[Continue with 3-star, 2-star, and 1-star reviews following the same format]
-
+3 Star Reviews ([Number] reviews)
+Summary: [Brief summary of common themes in 3-star reviews]
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
+2 Star Reviews ([Number] reviews)
+Summary: [Brief summary of common themes in 2-star reviews]
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
+1 Star Reviews ([Number] reviews)
+Summary: [Brief summary of common themes in 1-star reviews]
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
 ### [Additional Website] (e.g., Best Buy, Walmart, etc.)
 [Follow same format as above]
 
