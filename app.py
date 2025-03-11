@@ -34,6 +34,7 @@ Instructions for GPT Researcher:
    - Star rating (out of 5)
    - Summary of reviews with the same star rating.
    - Tags that summarize key points (e.g., "Great battery life," "Poor durability")
+   - Top 5 separate reviews
 3. Must gather atleast 10 reviews from each year for each star rating (5★, 4★, 3★, 2★, 1★), from each website ensuring a balanced representation of customer experiences.
 4. Summarise all reviews under each rating heading separating them by retailer name.
 5. Include reviews that mention specific features, durability, value for money, and customer service experiences.
@@ -56,24 +57,69 @@ Average Rating: [X.X]/5 from [XXXX] reviews
 
 5 Star Reviews ([Number] reviews)
 Summary: [Brief summary of common themes in 5-star reviews]
-Tags: "Tag 1", "Tag 2", etc (Tag associated with the reviews under consideration)
-
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 4 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 5 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
 4 Star Reviews ([Number] reviews)
 Summary: [Brief summary of common themes in 4-star reviews]
-Tags: "Tag 1", "Tag 2", etc (Tag associated with the reviews under consideration)
-
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 4 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 5 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
 3 Star Reviews ([Number] reviews)
 Summary: [Brief summary of common themes in 3-star reviews]
-Tags: "Tag 1", "Tag 2", etc (Tag associated with the reviews under consideration)
-
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 4 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 5 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
 2 Star Reviews ([Number] reviews)
 Summary: [Brief summary of common themes in 2-star reviews]
-Tags: "Tag 1", "Tag 2", etc (Tag associated with the reviews under consideration)
-
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 4 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 5 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
 1 Star Reviews ([Number] reviews)
 Summary: [Brief summary of common themes in 1-star reviews]
-Tags: "Tag 1", "Tag 2", etc (Tag associated with the reviews under consideration)
-
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 4 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 5 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
 ### [Indian E-commerce Site 1] (e.g., Tata Cliq, Flipkart, etc.)
 Product Overview
 
@@ -81,12 +127,30 @@ Average Rating: [X.X]/5 from [XXXX] reviews
 
 5 Star Reviews ([Number] reviews)
 Summary: [Brief summary of common themes in 5-star reviews]
-Tags: "Tag 1", "Tag 2", etc (Tag associated with the reviews under consideration)
-
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 4 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 5 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
 4 Star Reviews ([Number] reviews)
 Summary: [Brief summary of common themes in 4-star reviews]
-Tags: "Tag 1", "Tag 2", etc (Tag associated with the reviews under consideration)
-
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 4 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 5 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
 [Continue with 3-star, 2-star, and 1-star reviews following the same format]
 
 ### [Indian E-commerce Site 2] (e.g., Tata Cliq, Flipkart, etc.)
@@ -96,12 +160,30 @@ Average Rating: [X.X]/5 from [XXXX] reviews
 
 5 Star Reviews ([Number] reviews)
 Summary: [Brief summary of common themes in 5-star reviews]
-Tags: "Tag 1", "Tag 2", etc (Tag associated with the reviews under consideration)
-
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 4 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 5 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
 4 Star Reviews ([Number] reviews)
 Summary: [Brief summary of common themes in 4-star reviews]
-Tags: "Tag 1", "Tag 2", etc (Tag associated with the reviews under consideration)
-
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 4 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 5 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
 [Continue with 3-star, 2-star, and 1-star reviews following the same format]
 
 ### [Indian E-commerce Site 3] (e.g., Tata Cliq, Flipkart, etc.)
@@ -111,12 +193,30 @@ Average Rating: [X.X]/5 from [XXXX] reviews
 
 5 Star Reviews ([Number] reviews)
 Summary: [Brief summary of common themes in 5-star reviews]
-Tags: "Tag 1", "Tag 2", etc (Tag associated with the reviews under consideration)
-
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 4 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 5 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
 4 Star Reviews ([Number] reviews)
 Summary: [Brief summary of common themes in 4-star reviews]
-Tags: "Tag 1", "Tag 2", etc (Tag associated with the reviews under consideration)
-
+- Review 1 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 2 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 3 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 4 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+- Review 5 : [Review Content]
+  Tags: "Tag 1", "Tag 2", etc
+  
 [Continue with 3-star, 2-star, and 1-star reviews following the same format]
 
 ### [Additional Website] (e.g., Best Buy, Walmart, etc.)
